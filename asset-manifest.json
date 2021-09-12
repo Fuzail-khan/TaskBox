@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TaskBox/static/css/main.e5743f16.chunk.css",
+    "main.js": "/TaskBox/static/js/main.d886f653.chunk.js",
+    "main.js.map": "/TaskBox/static/js/main.d886f653.chunk.js.map",
+    "runtime-main.js": "/TaskBox/static/js/runtime-main.17419efa.js",
+    "runtime-main.js.map": "/TaskBox/static/js/runtime-main.17419efa.js.map",
+    "static/js/2.a10a2b51.chunk.js": "/TaskBox/static/js/2.a10a2b51.chunk.js",
+    "static/js/2.a10a2b51.chunk.js.map": "/TaskBox/static/js/2.a10a2b51.chunk.js.map",
+    "static/js/3.70cad8d7.chunk.js": "/TaskBox/static/js/3.70cad8d7.chunk.js",
+    "static/js/3.70cad8d7.chunk.js.map": "/TaskBox/static/js/3.70cad8d7.chunk.js.map",
+    "index.html": "/TaskBox/index.html",
+    "static/css/main.e5743f16.chunk.css.map": "/TaskBox/static/css/main.e5743f16.chunk.css.map",
+    "static/js/2.a10a2b51.chunk.js.LICENSE.txt": "/TaskBox/static/js/2.a10a2b51.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TaskBox/static/media/altitude.dc9e4969.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17419efa.js",
+    "static/js/2.a10a2b51.chunk.js",
+    "static/css/main.e5743f16.chunk.css",
+    "static/js/main.d886f653.chunk.js"
+  ]
+}
